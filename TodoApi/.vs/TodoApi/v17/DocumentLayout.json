@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huynh Ngoc\\source\\repos\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16766BBB-E29A-4D62-A888-AEBED91923B7}|TodoApi\\TodoApi.csproj|c:\\users\\huynh ngoc\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16766BBB-E29A-4D62-A888-AEBED91923B7}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16766BBB-E29A-4D62-A888-AEBED91923B7}|TodoApi\\TodoApi.csproj|c:\\users\\huynh ngoc\\source\\repos\\todoapi\\todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16766BBB-E29A-4D62-A888-AEBED91923B7}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16766BBB-E29A-4D62-A888-AEBED91923B7}|TodoApi\\TodoApi.csproj|c:\\users\\huynh ngoc\\source\\repos\\todoapi\\todoapi\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16766BBB-E29A-4D62-A888-AEBED91923B7}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoDb.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Ngoc\\source\\repos\\TodoApi\\TodoApi\\TodoDb.cs",
+              "RelativeDocumentMoniker": "TodoApi\\TodoDb.cs",
+              "ToolTip": "C:\\Users\\Huynh Ngoc\\source\\repos\\TodoApi\\TodoApi\\TodoDb.cs",
+              "RelativeToolTip": "TodoApi\\TodoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:54:24.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Ngoc\\source\\repos\\TodoApi\\TodoApi\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Todo.cs",
+              "ToolTip": "C:\\Users\\Huynh Ngoc\\source\\repos\\TodoApi\\TodoApi\\Todo.cs",
+              "RelativeToolTip": "TodoApi\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:53:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Ngoc\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Huynh Ngoc\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:44:38.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
